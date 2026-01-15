@@ -1,3 +1,3 @@
 module github.com/yourusername/intern-cicd-demo
 
-go 1.21
+go 1.25.5
